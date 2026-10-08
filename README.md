@@ -5,6 +5,8 @@
 Aspiring Developer | Tech Enthusiast | Cybersecurity Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/william-davies-aa3b1b431/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail\&logoColor=white)](mailto:w_j_davies@icloud.com)
+
 
 <br>
 <h2>💻 Languages and Tools I Use or Am Familiar With:</h2>
