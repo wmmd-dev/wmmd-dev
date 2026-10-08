@@ -19,8 +19,7 @@ Aspiring Developer | Tech Enthusiast | Cybersecurity Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
   <img width="11" />
   <img src="https://raw.githubusercontent.com/github/explore/58ff7d84bcc6dff955c67ddba1f702c793dc670d/topics/batch-file/batch-file.png" height="55" alt="additional logo" />
-  <img width="11" />
-   <img src="https://github.com/user-attachments/assets/9cafcf76-5ad6-485c-9105-f566178f7dbe" height="55" alt="additional logo" />
+ 
 
 </div>
 
