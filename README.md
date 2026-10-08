@@ -9,7 +9,7 @@ Aspiring Developer | Tech Enthusiast | Cybersecurity Enthusiast
 
 
 <br>
-<h2>💻 Languages and Tools I Use or Am Familiar With:</h2>
+<h2>💻 Languages and Tools :</h2>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
